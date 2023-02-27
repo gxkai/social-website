@@ -1,6 +1,6 @@
 <template>
   <Head>
-    <Title>S-Social | Login</Title>
+    <Title>Social | Login</Title>
   </Head>
   <form
     @submit.prevent="handle_claim"

@@ -4,7 +4,7 @@
     <Loading v-if="pending" />
 
     <Head>
-      <Title>S-Social | Profile</Title>
+      <Title>Social | Profile</Title>
     </Head>
     <!-- Container -->
     <div class="w-full max-w-4xl flex flex-col" v-if="user && !pending">

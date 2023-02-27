@@ -1,6 +1,6 @@
 <template>
   <Head>
-    <Title>S-Social | Sign Up</Title>
+    <Title>Social | Sign Up</Title>
   </Head>
   <form
     @submit.prevent="handle_submit"

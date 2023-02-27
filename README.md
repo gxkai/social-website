@@ -1,8 +1,8 @@
-# 💥 S-Social
+# 💥 Social
 
-S-Social is a mini social media 💻 built with Nuxt.js, Vue.js, TypeScript, TRPC, and Prisma 🚀. It aims to provide nothing 🤣 i just figured why not test out TRPC & Prisma 🤓
+Social is a mini social media 💻 built with Nuxt.js, Vue.js, TypeScript, TRPC, and Prisma 🚀. It aims to provide nothing 🤣 i just figured why not test out TRPC & Prisma 🤓
 
-**Disclaimer: S-Social is probably unsecure and vulnerable, so use it at your own risk! 🚨💥**
+**Disclaimer: Social is probably unsecure and vulnerable, so use it at your own risk! 🚨💥**
 
 ## 📚 Features
 
@@ -29,12 +29,12 @@ S-Social is a mini social media 💻 built with Nuxt.js, Vue.js, TypeScript, TRP
 
 ## 🚀 Getting started
 
-To get started with S-Social, you will need to have Node.js and npm (or yarn) installed on your machine.
+To get started with Social, you will need to have Node.js and npm (or yarn) installed on your machine.
 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/S-Social.git
+git clone https://github.com/yourusername/Social.git
 ```
 
 2. Install the dependencies:
@@ -53,7 +53,7 @@ npm run dev
 
 ## 📦 Deployment
 
-To deploy S-Social to a production environment, you can use the following command:
+To deploy Social to a production environment, you can use the following command:
 
 ```bash
 npm run build
@@ -73,8 +73,8 @@ Please feel free to contribute by submitting pull requests or by reporting any i
 
 ## 📜 License
 
-S-Social is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT)
+Social is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT)
 
 ## 🙌 Acknowledgments
 
-S-Social is inspired by other popular social media platforms and aims to provide a similar experience in a lightweight and simple package. 💡
+Social is inspired by other popular social media platforms and aims to provide a similar experience in a lightweight and simple package. 💡

@@ -1,6 +1,6 @@
 <template>
   <Head>
-    <Title>S-Social | Explore</Title>
+    <Title>Social | Explore</Title>
   </Head>
   <!-- Loading animation -->
   <Loading v-if="pending" />

@@ -3,7 +3,7 @@
     class="p-4 bg-slate-500 rounded-lg sm:gap-5 shadow md:flex md:items-center md:justify-between md:p-6 dark:bg-slate-900"
   >
     <span class="text-sm text-gray-100 sm:text-center dark:text-gray-400"
-      >© 2023 <a href="#" class="hover:underline">S-Social</a>. All Rights
+      >© 2023 <a href="#" class="hover:underline">Social</a>. All Rights
       Reserved.
     </span>
     <ul

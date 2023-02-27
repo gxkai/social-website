@@ -1,6 +1,6 @@
 <template>
   <Head>
-    <Title>S-Social | {{ user?.username }}</Title>
+    <Title>Social | {{ user?.username }}</Title>
   </Head>
 
   <!-- Loading animation -->
