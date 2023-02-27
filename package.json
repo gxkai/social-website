@@ -5,7 +5,7 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview --port=39030",
-    "start": "nuxt preview",
+    "start": "nuxt preview --port=39030",
     "postinstall": "prisma generate && nuxt prepare",
     "inject:env": "node sh/injectEnv.js",
     "preinstall": "npx only-allow pnpm",
