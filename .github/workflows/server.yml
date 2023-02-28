@@ -51,7 +51,6 @@ jobs:
             cd /www/project/social-website
             pnpm install
             pnpm build
-            cp .env ./.output
             pnpm kill
             pnpm run deploy
             nginx -s reload

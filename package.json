@@ -5,10 +5,11 @@
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "prisma generate && nuxt prepare",
+    "start": "PORT=39030 nuxt start",
+    "postinstall": "prisma generate",
     "inject:env": "node sh/injectEnv.js",
     "preinstall": "npx only-allow pnpm",
-    "deploy": "pm2 start ecosystem.config.js",
+    "deploy": "pm2 start --name social-website pnpm  -- run start",
     "kill": "pm2 delete social-website",
     "db:push": "prisma db push"
   },
